@@ -1,0 +1,5 @@
+.venv/
+.Python
+lib
+include
+staticfiles/
