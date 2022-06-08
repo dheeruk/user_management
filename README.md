@@ -1,5 +1,8 @@
 # project setup
 
+# after clone project use below command
+ -  cd user_management/
+
 # create venv and actviate for windows
  - python -m venv venv
  - .venv\Scripts\activate
